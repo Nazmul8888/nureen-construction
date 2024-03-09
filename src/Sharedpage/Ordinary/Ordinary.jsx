@@ -1,6 +1,6 @@
 const Ordinary = () => {
   return (
-    <div className=" py-20 max-w-screen-2xl mx-auto ">
+    <div className=" py-10 max-w-screen-2xl mx-auto ">
       <div className=" flex justify-evenly">
         <div>
           <h1 className=" text-5xl font-bold">
@@ -41,17 +41,17 @@ const Ordinary = () => {
         <div className=" flex gap-5  ml-28 py-16 ">
           <div className="card w-96 bg-[#57727f] text-neutral-content">
             <div className="card-body items-center text-center">
-              <h2 className=" text-6xl font-bold text-white mr-40">25k</h2>
+              <h2 className=" text-6xl font-bold  text-red-600 mr-40">25k</h2>
               <span className=" text-4xl text-white mr-40">Projects</span>
-              <span className=" text-4xl  ml-6 text-white mr-40">Completed</span>
+              <span className=" text-4xl  ml-8 text-white mr-40">Completed</span>
             </div>
           </div>
         
         <div >
           <div className="card w-96 bg-[#57727f] text-neutral-content">
             <div className="card-body items-center text-center">
-              <h2 className=" text-6xl font-bold text-white mr-40">160</h2>
-              <span className=" text-4xl ml-6 text-white mr-40">Countries</span>
+              <h2 className=" text-6xl font-bold  text-red-600  mr-40">160</h2>
+              <span className=" text-4xl ml-8 text-white mr-40">Countries</span>
               <span className=" text-4xl   text-white mr-40">Visited</span>
             </div>
           </div>
@@ -59,8 +59,8 @@ const Ordinary = () => {
         <div >
           <div className="card w-96 bg-[#57727f] text-neutral-content">
             <div className="card-body items-center text-center">
-              <h2 className=" text-6xl font-bold text-white mr-40">7</h2>
-              <span className=" text-4xl  ml-10 text-white mr-40">Continents</span>
+              <h2 className=" text-6xl font-bold text-red-600  mr-40">7</h2>
+              <span className=" text-4xl  ml-12 text-white mr-40">Continents</span>
               <span className=" text-4xl  ml-6 text-white mr-40">Explored</span>
             </div>
           </div>

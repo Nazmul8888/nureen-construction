@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "title": "PM / CM",
+      "image": "https://assets-global.website-files.com/5d2e4c0ad929d6e6a6483788/5dfd19bfc2ea8e32a1ee642f_pmg-cm.svg",
+      "details":  "The Webcor Project and Construction Management Group (PM/CM) provides a range of client support and partnership ."  
+    },
+    {
+      "id": 2,
+      "title": "Preconstruction",
+      "image": "https://assets-global.website-files.com/5d2e4c0ad929d6e6a6483788/5dfd1e65463fa75d3a010906_Preconstruction_outlined.svg",
+      "details": "Our in-house professionals from the Sustainability, Quality, Safety, and Virtual Building departments play an active role "
+    },
+    {
+      "id": 3,
+      "title": "Construction",
+      "image": "https://assets-global.website-files.com/5d2e4c0ad929d6e6a6483788/5dfd2171cdb804519e57749d_Construction.svg",
+      "details": "It's what we do best, specifically building projects across the Golden State that fully express our client's goals and objectives."
+    },
+    {
+      "id": 4,
+      "title": "Self - Perform Group",
+      "image": "https://assets-global.website-files.com/5d2e4c0ad929d6e6a6483788/5dfd1e762217e083dfa5b490_Self%20-%20Perform%20Group_outlined.svg",
+      "details": "Webcor Craft is our in-house self-perform group specializing in finish carpentry, concrete, and drywall." 
+    }
+    
+  ]

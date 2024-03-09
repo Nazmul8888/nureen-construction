@@ -1,12 +1,13 @@
 import Banner from "../Sharedpage/Banner/Banner";
-import Ordinary from "../Sharedpage/Ordinary/Ordinary";
+import Experts from "../Sharedpage/Experts/Experts";
+
 
 
 const Home = () => {
     return (
         <div>
             <Banner></Banner>
-            <Ordinary></Ordinary>
+            <Experts></Experts>
         </div>
     );
 };
